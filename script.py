@@ -394,4 +394,4 @@ async def auto(ctx, value1, value2, value3, value4):
 
 
 
-bot.run("OTY1NTYzNjU3MTk3MDYwMTc3.Yl1BOw.LrsHBMVWP11C5J8l_jV71GVWCpw")
+bot.run("Token")
